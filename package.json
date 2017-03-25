@@ -1,0 +1,21 @@
+{
+  "name": "iitg-auth",
+  "version": "0.0.1",
+  "description": "A wrapper library for authenticating with IIT Guwahati webmail servers.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uppinder/iitg-auth.git"
+  },
+  "keywords": [
+    "nodejs",
+    "authentication",
+    "imap"
+  ],
+  "author": "Uppinder Chugh <uppinderchugh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uppinder/iitg-auth/issues"
+  },
+  "homepage": "https://github.com/uppinder/iitg-auth#readme"
+}
