@@ -23,7 +23,9 @@
   "homepage": "https://github.com/uppinder/iitg-auth#readme",
   "devDependencies": {
     "chai": "^3.5.0",
-    "imap": "^0.8.19",
     "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "imap": "^0.8.19"
   }
 }
