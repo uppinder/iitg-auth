@@ -9,7 +9,7 @@ A wrapper library for authenticating with IIT Guwahati webmail servers.
   ```
 ## Usage
 
- #### Authentication
+ ### Authentication
   ```javascript
   var iitgAuth = require('iitg-auth');
   ....
@@ -40,7 +40,7 @@ A wrapper library for authenticating with IIT Guwahati webmail servers.
 
 ## Tests
 
-  #### WIP
+  ### WIP
   
 ## License
 
