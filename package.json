@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "A wrapper library for authenticating with IIT Guwahati webmail servers.",
   "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/uppinder/iitg-auth.git"
@@ -17,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/uppinder/iitg-auth/issues"
   },
-  "homepage": "https://github.com/uppinder/iitg-auth#readme"
+  "homepage": "https://github.com/uppinder/iitg-auth#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "imap": "^0.8.19",
+    "mocha": "^3.2.0"
+  }
 }
