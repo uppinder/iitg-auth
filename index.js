@@ -49,7 +49,7 @@ function webmailAuthenticate(userDetails, callback) {
     process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
 
     var authObject = {
-      username: userDetails.username,
+      user: userDetails.username,
       password: userDetails.password,
       host: userDetails.mailServer.toLowerCase() + '.iitg.ernet.in',
       port: 993,
