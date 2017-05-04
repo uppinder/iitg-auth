@@ -1,5 +1,7 @@
 iitg-auth
 =========
+[![npm version](https://badge.fury.io/js/iitg-auth.svg)](https://badge.fury.io/js/iitg-auth)
+
 A wrapper library for authenticating with IIT Guwahati webmail servers.
 
 ## Installation
